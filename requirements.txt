@@ -1,5 +1,4 @@
 langchain
-openai
 python_dotenv
 requests
 newspaper3k
